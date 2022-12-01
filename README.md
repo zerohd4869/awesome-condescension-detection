@@ -20,5 +20,5 @@ Condescending Language towards Vulnerable Communities | **[COLING' 20]** | [`[pd
 ## Contact & Feedback
 If you have any suggestions about papers, feel free to mail me :)
 - [e-mail](mailto:hudou@iie.ac.cn)
-
+- [pull request](https://github.com/zerohd4869/awesome-pcl-detection/pulls)
 
