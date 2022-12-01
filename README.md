@@ -6,7 +6,7 @@ PCL detection technique is used to identify the patronizing and condescending la
 
 
 ## Papers
-- Talkdown: A corpus for condescension detection in context | **[EMNLP-IJCNLP' 19]** | [`[pdf]`](https://aclanthology.org/D19-1385.pdf) | [`[data]`](http://github.com/ zijwang/talkdown)
+- Talkdown: A corpus for condescension detection in context | **[EMNLP-IJCNLP' 19]** | [`[pdf]`](https://aclanthology.org/D19-1385.pdf) | [`[data]`](http://github.com/zijwang/talkdown)
 - Don’t Patronize Me! An Annotated Dataset with Patronizing and
 Condescending Language towards Vulnerable Communities | **[COLING' 20]** | [`[pdf]`](https://aclanthology.org/2020.coling-main.518.pdf) | [`[data]`](https://github.com/Perez-AlmendrosC/dontpatronizeme)
 - SemEval-2022 Task 4: Patronizing and Condescending Language Detection | **[SemEval@NAACL' 22]** | [`[pdf]`](https://aclanthology.org/2022.semeval-1.43.pdf) | [`[task]`](https://sites.google.com/view/pcl-detection-semeval2022) | [`[competition]`](https://competitions.codalab.org/competitions/34344)
