@@ -1,9 +1,8 @@
-# awesome-pcl-detection
-A curated list of awesome PCL detection resources.
+# awesome-condescension-detection
+A curated list of awesome condescension detection resources.
 
-## What is PCL detection?
-PCL detection technique is used to identify the patronizing and condescending language (PCL), and to categorize the linguistic techniques used to express it, specifically when referring to vulnerable communities in the media.
-
+## What is condescension detection?
+Condescension detection is the task of identifying a patronizing attitude or behavior towards others in a discourse.
 
 ## Papers
 - Talkdown: A corpus for condescension detection in context | **[EMNLP-IJCNLP' 19]** | [`[pdf]`](https://aclanthology.org/D19-1385.pdf) | [`[data]`](http://github.com/zijwang/talkdown)
